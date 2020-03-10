@@ -1,0 +1,20 @@
+{
+  "name": "flutter_build_web",
+  "version": "1.0.1",
+  "description": "flutter_build_web",
+  "main": "lib/index.js",
+  "types": "src/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymzuiku/flutter_build_web.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bin":{
+    "flutter_build_web": "bin.js"
+  },
+  "bugs": {
+    "url": "https://github.com/ymzuiku/flutter_build_web/issues"
+  },
+  "homepage": "https://github.com/ymzuiku/react-den#readme"
+}
