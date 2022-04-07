@@ -1,6 +1,6 @@
 {
   "name": "flutter_build_web",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "flutter_build_web",
   "main": "lib/index.js",
   "types": "src/index.d.ts",

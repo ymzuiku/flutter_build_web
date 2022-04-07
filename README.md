@@ -10,8 +10,5 @@
 In flutter project root dir, run this:
 
 ```sh
-# only rename main.dart.js
 npx flutter_build_web
-# flutter build web and rename main.dart.js
-npx flutter_build_web build
 ```
