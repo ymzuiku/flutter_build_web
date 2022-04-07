@@ -1,6 +1,6 @@
 {
   "name": "flutter_build_web",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "flutter_build_web",
   "main": "lib/index.js",
   "types": "src/index.d.ts",
@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "license": "ISC",
-  "bin":{
+  "bin": {
     "flutter_build_web": "bin.js"
   },
   "bugs": {
